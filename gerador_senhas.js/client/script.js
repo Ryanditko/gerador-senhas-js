@@ -1,5 +1,5 @@
-// Meu Gerador de Senhas Avançado
-// Desenvolvido por [Seu Nome]
+
+// Desenvolvido por Ryan Rodrigues
 
 // Elementos do DOM que vou precisar manipular
 const passwordEl = document.getElementById('password');
