@@ -22,14 +22,14 @@ Um gerador de senhas robusto e personalizável desenvolvido com HTML, CSS e Java
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/ryanditko/gerador-senhas.git
+git clone https://github.com/ryanditko/gerador-senhas-js.git
 ```
 
 2. Abra o arquivo `index.html` em seu navegador
 
 ou
 
-Acesse a [versão online](https://ryanditko.github.io/gerador-senhas) (após configurar o GitHub Pages)
+Acesse a [versão online](https://ryanditko.github.io/gerador-senhas-js) (após configurar o GitHub Pages)
 
 ## 💻 Tecnologias Utilizadas
 
